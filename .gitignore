@@ -1,2 +1,7 @@
-.DS Store
+.DS_Store
 venv_spacewalks/
+tests/__pycache__/
+.coverage
+__pycache__/
+.vscode/settings.json
+site/
